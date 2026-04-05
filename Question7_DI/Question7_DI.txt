@@ -1,0 +1,18 @@
+Dependency Injection (DI) in ASP.NET Core is a design pattern used to achieve loose coupling by injecting dependencies into a class rather than creating them inside the class.
+
+Implementation Steps:
+
+1.Create an interface and service class
+Define a service contract and its implementation.
+
+2.Register the service in the DI container
+In Program.cs, register the service using:
+# AddTransient() – new instance every time
+# AddScoped() – one instance per request
+# AddSingleton() – single instance for entire application
+
+3.Inject the service into a class (e.g., Controller)
+Use constructor injection to access the service.
+
+Conclusion:
+ASP.NET Core provides a built-in DI container that automatically manages object creation and lifetime, making the application more maintainable, testable, and loosely coupled.
