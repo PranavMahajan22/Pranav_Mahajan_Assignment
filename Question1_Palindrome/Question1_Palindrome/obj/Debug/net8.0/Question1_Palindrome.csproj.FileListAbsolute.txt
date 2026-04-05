@@ -1,0 +1,14 @@
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\bin\Debug\net8.0\Question1_Palindrome.exe
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\bin\Debug\net8.0\Question1_Palindrome.deps.json
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\bin\Debug\net8.0\Question1_Palindrome.runtimeconfig.json
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\bin\Debug\net8.0\Question1_Palindrome.dll
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\bin\Debug\net8.0\Question1_Palindrome.pdb
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\obj\Debug\net8.0\Question1_Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\obj\Debug\net8.0\Question1_Palindrome.AssemblyInfoInputs.cache
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\obj\Debug\net8.0\Question1_Palindrome.AssemblyInfo.cs
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\obj\Debug\net8.0\Question1_Palindrome.csproj.CoreCompileInputs.cache
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\obj\Debug\net8.0\Question1_Palindrome.dll
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\obj\Debug\net8.0\refint\Question1_Palindrome.dll
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\obj\Debug\net8.0\Question1_Palindrome.pdb
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\obj\Debug\net8.0\Question1_Palindrome.genruntimeconfig.cache
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question1_Palindrome\Question1_Palindrome\obj\Debug\net8.0\ref\Question1_Palindrome.dll

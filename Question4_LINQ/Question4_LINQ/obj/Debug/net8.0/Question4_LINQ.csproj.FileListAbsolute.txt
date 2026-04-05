@@ -1,0 +1,14 @@
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\bin\Debug\net8.0\Question4_LINQ.exe
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\bin\Debug\net8.0\Question4_LINQ.deps.json
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\bin\Debug\net8.0\Question4_LINQ.runtimeconfig.json
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\bin\Debug\net8.0\Question4_LINQ.dll
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\bin\Debug\net8.0\Question4_LINQ.pdb
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\obj\Debug\net8.0\Question4_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\obj\Debug\net8.0\Question4_LINQ.AssemblyInfoInputs.cache
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\obj\Debug\net8.0\Question4_LINQ.AssemblyInfo.cs
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\obj\Debug\net8.0\Question4_LINQ.csproj.CoreCompileInputs.cache
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\obj\Debug\net8.0\Question4_LINQ.dll
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\obj\Debug\net8.0\refint\Question4_LINQ.dll
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\obj\Debug\net8.0\Question4_LINQ.pdb
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\obj\Debug\net8.0\Question4_LINQ.genruntimeconfig.cache
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question4_LINQ\Question4_LINQ\obj\Debug\net8.0\ref\Question4_LINQ.dll

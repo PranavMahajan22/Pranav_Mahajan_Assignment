@@ -1,0 +1,14 @@
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\obj\Debug\net8.0\Question3_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\obj\Debug\net8.0\Question3_Encapsulation.AssemblyInfoInputs.cache
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\obj\Debug\net8.0\Question3_Encapsulation.AssemblyInfo.cs
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\obj\Debug\net8.0\Question3_Encapsulation.csproj.CoreCompileInputs.cache
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\bin\Debug\net8.0\Question3_Encapsulation.exe
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\bin\Debug\net8.0\Question3_Encapsulation.deps.json
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\bin\Debug\net8.0\Question3_Encapsulation.runtimeconfig.json
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\bin\Debug\net8.0\Question3_Encapsulation.dll
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\bin\Debug\net8.0\Question3_Encapsulation.pdb
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\obj\Debug\net8.0\Question3_Encapsulation.dll
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\obj\Debug\net8.0\refint\Question3_Encapsulation.dll
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\obj\Debug\net8.0\Question3_Encapsulation.pdb
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\obj\Debug\net8.0\Question3_Encapsulation.genruntimeconfig.cache
+D:\PRANAV MAHAJAN@22\visual studio code\Zest India\Question3_Encapsulation\Question3_Encapsulation\obj\Debug\net8.0\ref\Question3_Encapsulation.dll
