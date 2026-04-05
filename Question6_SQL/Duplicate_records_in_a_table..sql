@@ -33,7 +33,9 @@ INSERT INTO Staff (Id, Name, Salary) VALUES
 (20, 'Neha', 67000);
 
 SELECT * FROM Staff
-
+    
+-- SQL query to find duplicate records in a table.
+    
 WITH CTE AS (
     SELECT *,
            ROW_NUMBER() OVER (PARTITION BY Name ORDER BY Id) AS rn
